@@ -1,0 +1,13 @@
+article {
+    text-align: center;
+}
+
+article img {
+    width: 300px;
+    margin-left: 30%;
+    float: left;
+}
+
+article h1 {
+    text-transform: uppercase;
+}
