@@ -41,3 +41,19 @@ article h2 {
     text-align: center;
     padding: 30px 0;
 }
+
+.link {
+    text-decoration: none;
+}
+
+.link:link {
+    color: #0000EE;
+}
+
+.link:visited {
+    color: #551A8B;
+}
+
+.link:hover {
+    color: fuchsia;
+}
